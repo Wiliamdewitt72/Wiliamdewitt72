@@ -17,3 +17,7 @@ Para mejorar mis habilidades en la maquetación de páginas web sobre todo en *C
 ### [Alura](https://github.com/Wiliamdewitt72/Alura)
 
 Notas del curso ONE (Oracle Next Education).
+
+## Estatics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiliamdewitt72)](https://github.com/anuraghazra/github-readme-stats)
