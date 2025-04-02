@@ -1,8 +1,10 @@
 # Hola!
 
-Soy Daniel Frias.
+Me llamo Daniel.
 
-Busco formar el hábito de programar diario, y mi punto de concentración es el desarrollo web.
+Quiero llegar a ser un ingeniero de software autodidacta. 
+
+Aprender de BackEnd y FrontEnd en el desarrollo web. 
 
 ## Estatics
 
